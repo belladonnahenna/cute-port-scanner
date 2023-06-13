@@ -10,7 +10,7 @@ if len(sys.argv) == 2:
     target = socket.gethostbyname(sys.argv[1]) #Translate hostname to IPv4
 else:
         print('\033[31m' + "Invalid amount arguments (?︵?)")
-        print("Syntax: Python3 scanner.py <ip> ヽ(*｀ﾟД´)ﾉ" + '\033[0m')
+        print("Syntax: Python3 <File.py> <ip> ヽ(*｀ﾟД´)ﾉ" + '\033[0m')
 
 #pwetty banner :3
 print("\033[93m･:*:･ﾟ★,｡･:*:･ﾟ☆\033[0m" * 5)
