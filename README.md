@@ -3,4 +3,4 @@ escaner de puertos pero un modo lindo k incluye kaomojis xD
 
 
 Demonstracion:
-"python3 <escaner.py> <ip>"
+"python3 <escaner.py> <ip-address-here>"
